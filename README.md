@@ -11,9 +11,10 @@ _for all mobilephones and tables!_
 
 I am quite new in this world of coding. I’m also so very open and grateful for tips and suggestions for improvement and learn how to code.
 
-Improvement for the Score-Keeper 2.0 will be updated little by little.
+Improvement for the Score-Keeper 2.0 will be updated little by little!
 
 #happycoding #codelife
-@\_wlsp
+insta: @_wlsp
 
-<img src ="img/image.png" width="100">
+
+<img src ="img/image.png" width="100%">

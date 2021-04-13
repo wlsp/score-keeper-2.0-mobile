@@ -75,8 +75,8 @@ a#reset:hover {
 
 @media only screen and (max-width: 480px) {
   #content {
-    width: 100%;
-    margin: 20% 0 0 0;
+    width: 95%;
+    margin: 20%;
     margin-bottom: 2%;
   }
 
@@ -84,10 +84,12 @@ a#reset:hover {
   a#sp2Button,
   select#playto,
   a#reset {
-    width: 100%;
-    height: 2sem;
+    width: 90%;
+    height: 2em;
+    font-size: 2.5em;
     margin-right: 0;
     margin-bottom: 2%;
+    border-color: #fff;
   }
 
   p {
@@ -99,9 +101,9 @@ a#reset:hover {
   }
 }
 
-@media only screen and (max-width: 1280px) {
+@media only screen and (max-width: 980px) {
   #content {
-    width: 100%;
+    width: 95%;
     margin: 20% 0 0 0;
     margin-bottom: 2%;
   }
@@ -110,7 +112,7 @@ a#reset:hover {
   a#sp2Button,
   select#playto,
   a#reset {
-    width: 100%;
+    width: 90%;
     height: 2sem;
     margin-right: 0;
     margin-bottom: 2%;

@@ -16,4 +16,4 @@ Improvement for the Score-Keeper 2.0 will be updated little by little.
 #happycoding #codelife
 @\_wlsp
 
-<img src ="img/collage+code.png" width="100">
+<img src ="img/image.png" width="100">

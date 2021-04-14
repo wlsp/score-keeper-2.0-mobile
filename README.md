@@ -22,7 +22,8 @@ while (alive) {
     sleep(); 
     code(); 
     repeat(); 
-}``
+}
+```
 
 
 insta: @_wlsp

@@ -48,6 +48,15 @@ h1 {
   transition: all 0.2s;
 }
 
+#playto {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 800;
+  font-size: 2em;
+  text-align-last:center;
+  
+}
+
+
 p {
   font-family: "Roboto Mono", monospace;
   font-size: 1.2em;

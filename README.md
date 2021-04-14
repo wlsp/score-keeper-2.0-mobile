@@ -16,12 +16,14 @@ Improvement for the Score-Keeper 2.0 will be updated little by little!
 
 #happycoding #codelife
 
+
+```javascript
 while (alive) { 
     eat(); 
     sleep(); 
     code(); 
     repeat(); 
-}
+}```
 
 insta: @_wlsp
 
